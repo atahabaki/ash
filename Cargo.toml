@@ -1,0 +1,17 @@
+[package]
+name = "ash"
+description = "Yet another cross platform shell, A. Taha Baki's Shell..."
+repository = "https://github.com/atahabaki/ash"
+version = "0.0.0"
+edition = "2018"
+authors = ["A. Taha Baki <atahabaki@pm.me>"]
+license = "GPL-3.0-or-later"
+categories = [
+	"shell",
+	"cross-platform",
+	"accessibility",
+	"command-line-interface",
+	"command-line-utilities"
+]
+
+[dependencies]
